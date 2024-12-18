@@ -28,7 +28,7 @@
 
                         <div class="media-left"><i class="fa fa-home"></i></div>
 
-                        <div class="media-body">Địa chỉ: 27 Trịnh Văn Bô</div>
+                        <div class="media-body">Địa chỉ: 12 Chùa Bộc</div>
 
                     </li>
 
@@ -36,7 +36,7 @@
 
                         <div class="media-left"><i class="fa fa-phone"></i></div>
 
-                        <div class="media-body">Liên hệ: 0793-576-766</div>
+                        <div class="media-body">Liên hệ: 02438521851</div>
 
                     </li>
 
@@ -44,7 +44,7 @@
 
                         <div class="media-left"><i class="fa fa-envelope"></i></div>
 
-                        <div class="media-body">Emails: vunvph21089@example.com</div>
+                        <div class="media-body">Email: phongdaotao@hvnh.edu.vn</div>
 
                     </li>
 
@@ -52,17 +52,10 @@
 
                         <div class="media-left"><i class="fa fa-clock-o"></i></div>
 
-                        <div class="media-body">Giờ làm việc: 09:30-21:00 trừ ngày chủ nhật</div>
+                        <div class="media-body">Giờ làm việc: 07:00-18:00 trừ ngày chủ nhật</div>
 
                     </li>
 
-                    <li class="media">
-
-                        <div class="media-left"><i class="fa fa-map-marker"></i></div>
-
-                        <div class="media-body">Xem trên bản đồ</div>
-
-                    </li>
 
                 </ul>
 
@@ -116,7 +109,7 @@
 
                 </p>
 
-                <div class="copyright">&copy; 2022 HPV</div>
+                <div class="copyright">&copy; 2024 Nhóm 9</div>
 
             </div>
 

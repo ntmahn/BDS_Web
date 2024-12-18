@@ -438,7 +438,7 @@
 
                             <div class="logo">
 
-                                <a href="index.php"><img src="view/assets/img/logo-reestate.png" alt="HPV" /></a>
+                                <a href="index.php"><img src="view/assets/img/logo.png" alt="HPV" /></a>
                             </div>
 
                         </div>
