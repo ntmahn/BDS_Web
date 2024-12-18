@@ -109,7 +109,7 @@
 
                 </p>
 
-                <div class="copyright">&copy; 2024 Nhóm 9</div>
+                <div class="copyright">&copy; 2024 Nhóm 15</div>
 
             </div>
 
