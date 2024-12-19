@@ -2635,7 +2635,7 @@ include "view/header.php";
 
                     </h2>
 
-                    <p>Chúng tôi là nhóm 10 trong dự án 1 , buôn bán bất động sản đặt chữ tín lên hàng đầu , vừa lòng khách chọn hợp lòng khách đi.</p>
+                    <p>Chúng tôi là nhóm 15 trong dự án 1 , buôn bán bất động sản đặt chữ tín lên hàng đầu , vừa lòng khách chọn hợp lòng khách đi.</p>
                     <ul class="list-icons">
 
                         <li><i class="fa fa-check-circle"></i>Web bất động sản giá rẻ uy tín chất lượng.</li>
@@ -2721,7 +2721,7 @@ include "view/header.php";
 
                         <div class="caption">
 
-                            <h4 class="caption-title">Trần Thị Phương <small>Tư vấn</small></h4>
+                            <h4 class="caption-title">Nguyễn Minh Tuấn <small>Tư vấn</small></h4>
 
                             <ul class="team-details">
 
@@ -2757,7 +2757,7 @@ include "view/header.php";
 
                         <div class="caption">
 
-                            <h4 class="caption-title">Phạm Việt Hoàng<small>Tư Vấn</small></h4>
+                            <h4 class="caption-title">Phạm Ngọc Tuyền<small>Tư Vấn</small></h4>
 
                             <ul class="team-details">
 
@@ -2793,7 +2793,7 @@ include "view/header.php";
 
                         <div class="caption">
 
-                            <h4 class="caption-title">Ngô Văn Vụ <small>Tư Vấn</small></h4>
+                            <h4 class="caption-title">Nguyễn Thị Xuyến <small>Tư Vấn</small></h4>
 
                             <ul class="team-details">
 
@@ -2829,7 +2829,7 @@ include "view/header.php";
 
                         <div class="caption">
 
-                            <h4 class="caption-title">Vũ Bảo Linh <small>Chuyên viên tư vấn</small></h4>
+                            <h4 class="caption-title">Nguyễn Tiến Mạnh <small>Chuyên viên tư vấn</small></h4>
 
                             <ul class="team-details">
 
@@ -2850,7 +2850,38 @@ include "view/header.php";
                 <!-- Team 4 -->
 
 
+                
+                <!-- Team 5 -->
 
+                <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-offset="200" data-wow-delay="400ms">
+
+                    <div class="thumbnail thumbnail-team no-border no-padding">
+
+                        <div class="media">
+
+                            <img src="https://i.pinimg.com/564x/2b/f5/72/2bf572010d4a06b9a7265693f9ff85da.jpg" alt="" />
+
+                        </div>
+
+                        <div class="caption">
+
+                            <h4 class="caption-title">Ninh Thị Thanh Tâm <small>Chuyên viên tư vấn</small></h4>
+
+                            <ul class="team-details">
+
+                                <li><i class="fa fa-skype">&nbsp;</i> Chuyên gia</li>
+
+                                <li><i class="fa fa-phone">&nbsp;</i> 034-738-3594</li>
+
+                                <li><i class="fa fa-envelope">&nbsp;</i> <a href="mailto:supportname@gmail.com">vubaolinh@gmail.com</a></li>
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                </div>
             </div>
 
             <!-- /Team row -->
