@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title> HPV - Admin</title>
+    <title>Admin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -73,6 +73,7 @@
                                     </span>
                                 </span>
                             </button>
+                            <!-- Đăng xuất hơi lỗi -->
                             <!-- <div class="dropdown-menu dropdown-menu-end">
                                 <h6 class="dropdown-header">Xin chào</h6>
                                 <a class="dropdown-item" href="index.php?act=exit">
@@ -104,7 +105,7 @@
                         <img src="../assets/images/logo_sm.png" alt="" width="50px" height="auto">
                     </span>
                     <span class="logo-lg">
-                        <a href="../index.php"><img src="../assets/images/logo_white.png" width="150px" alt="logo" height="auto"></a>
+                        <a href="../index.php"><img src="../assets/images/logo.png" width="150px" alt="logo" height="auto"></a>
                     </span>
                 </a>
                 <button type="button" class="btn btn-sm p-0 fs-20 header-item float-end btn-vertical-sm-hover" id="vertical-hover">

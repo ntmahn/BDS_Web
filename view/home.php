@@ -42,7 +42,7 @@ include "view/header.php";
 
                                             <p class="caption-text">
 
-                                                Duy nhất trong tháng 12, HPV chính thức triển khai chương trình khuyến mại và hoàn tiền cực khủng chưa từng có. Đặc biệt, khi nạp tiền trong thời gian diễn ra chương trình, Quý khách sẽ được nhận ngay các quà tặng hấp dẫn và giá trị.
+                                                Duy nhất trong tháng 12, Nhóm 9 chính thức triển khai chương trình khuyến mại và hoàn tiền cực khủng chưa từng có. Đặc biệt, khi nạp tiền trong thời gian diễn ra chương trình, Quý khách sẽ được nhận ngay các quà tặng hấp dẫn và giá trị.
 
                                             </p>
 
@@ -95,7 +95,7 @@ include "view/header.php";
 
                                             <p class="caption-text">
 
-                                                Duy nhất trong tháng 12, HPV chính thức triển khai chương trình khuyến mại và hoàn tiền cực khủng chưa từng có. Đặc biệt, khi nạp tiền trong thời gian diễn ra chương trình, Quý khách sẽ được nhận ngay các quà tặng hấp dẫn và giá trị.
+                                                Duy nhất trong tháng 12, Nhóm 9 chính thức triển khai chương trình khuyến mại và hoàn tiền cực khủng chưa từng có. Đặc biệt, khi nạp tiền trong thời gian diễn ra chương trình, Quý khách sẽ được nhận ngay các quà tặng hấp dẫn và giá trị.
 
                                             </p>
 
@@ -144,7 +144,7 @@ include "view/header.php";
 
                                             <p class="caption-text">
 
-                                                Duy nhất trong tháng 12, HPV chính thức triển khai chương trình khuyến mại và hoàn tiền cực khủng chưa từng có. Đặc biệt, khi nạp tiền trong thời gian diễn ra chương trình, Quý khách sẽ được nhận ngay các quà tặng hấp dẫn và giá trị.
+                                                Duy nhất trong tháng 12, Nhóm 9 chính thức triển khai chương trình khuyến mại và hoàn tiền cực khủng chưa từng có. Đặc biệt, khi nạp tiền trong thời gian diễn ra chương trình, Quý khách sẽ được nhận ngay các quà tặng hấp dẫn và giá trị.
 
                                             </p>
 

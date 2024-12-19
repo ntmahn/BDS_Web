@@ -92,7 +92,7 @@
                                     <div class="p-lg-5 p-4">
                                         <div>
                                             <h5 class="text-primary">Xin chào !</h5>
-                                            <p class="text-muted">Đăng nhập để tiếp tục truy cập vào HPV</p>
+                                            <p class="text-muted">Đăng nhập để tiếp tục truy cập</p>
                                         </div>
 
                                         <div class="mt-4">
